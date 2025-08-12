@@ -23,7 +23,7 @@
                 <a href="/EspressoEase/pages/privacy.php">Privacy Policy</a>
                 <a href="/EspressoEase/pages/terms.php">Terms of Service</a>
             </div>
-            <p class="copyright">&copy; 2025 EspressoEase. All rights reserved.</p>
+            <p class="copyright">&copy; 2025 EspressoEase by Elaf Nadaf. All rights reserved.</p>
         </div>
     </footer>
 </body>

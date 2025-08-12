@@ -23,8 +23,8 @@ application using PHP, MySQL, HTML, CSS and JavaScript.
 
 ## Installation
 
-1. Download or clone the project folder to your local server directory (www in
-   WAMP).
+1. Clone the repository from https://github.com/e1af-nadaf/EspressoEase.git to
+   your local server directory (e.g., www in WAMP).
 
 2. Create a MySQL database named espressoease.
 

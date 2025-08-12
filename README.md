@@ -1,6 +1,6 @@
 ## EspressoEase
 
-EspressoEase is a simple and elegant Cafe Management System desgigned to help
+EspressoEase is a simple and elegant Cafe Management System designed to help
 manage cafe operation such as browsing the menu, adding items to cart, placing
 orders and managing users. This version is a beginner friendly full-stack web
 application using PHP, MySQL, HTML, CSS and JavaScript.
@@ -8,7 +8,7 @@ application using PHP, MySQL, HTML, CSS and JavaScript.
 ## Features
 
 - User Registration and Login
-- Browse Menu Items bu Category (Coffee, Tea, Snacks, Desserts, Healthy-Bites)
+- Browse Menu Items by Category (Coffee, Tea, Snacks, Desserts, Healthy-Bites)
 - Add items to Cart and Modify Quantity
 - Review Order and Place it
 - View Order Summary
@@ -28,11 +28,9 @@ application using PHP, MySQL, HTML, CSS and JavaScript.
 
 2. Create a MySQL database named espressoease.
 
-3. Import the espressoease.sql file using phpMyAdmin.
+3. Update database credentials in `config.php`.
 
-4. Update database credentials in config.php.
-
-5. Start your local server and open http://localhost/EspressoEase/ in your
+4. Start your local server and open http://localhost/EspressoEase/ in your
    browser.
 
 ## Usage
@@ -57,3 +55,6 @@ Elaf Nadaf
 - GitHub: https://github.com/e1af-nadaf
 
 ## License
+
+This project is licensed under the MIT License - see the `LICENSE` file for
+details.
